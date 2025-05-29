@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@ojijosephoji](https://medium.com/@ojijosephoji)
 
-- 💬 Ask me about **Frontend Developer with experience in designing and implementing responsive, user-centric web applications. Proficient in modern JavaScript frameworks such as React.js with a passion for delivering Proven track record of collaborating with cross-functional teams to deliver high quality, scalable, and accessible applications.**
+- 💬 About Me:   ** A Frontend Developer with experience in designing and implementing responsive, user-centric web applications. Proficient in modern JavaScript frameworks such as React.js with a passion for delivering Proven track record of collaborating with cross-functional teams to deliver high quality, scalable, and accessible applications.**
 
 - 📫 How to reach me **ojijosephoji@gmail.com**
 
